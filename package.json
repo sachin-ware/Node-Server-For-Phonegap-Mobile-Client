@@ -1,0 +1,16 @@
+{
+  "name": "NodeRESTServer",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "*",
+    "express": "3.2.6",
+    "nodemailer": "^2.4.2",
+    "random-password-generator": "0.0.3",
+    "sendgrid": "^3.0.5",
+    "sendgrid-nodejs": "^0.1.0"
+  }
+}
